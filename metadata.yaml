@@ -1,0 +1,36 @@
+_repo: Die-Welt-im-Kinderk-pfchen_43613
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43613-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Siebe, Josephine
+    alias: Siebe, Josefine
+    birthdate: 1870
+    deathdate: 1941
+    gutenberg_agent_id: '38491'
+    url: http://www.gutenberg.org/2009/agents/38491
+  editor:
+    agent_name: Prüfer, Johannes
+    aliases:
+    - Prüfer, Dr. Johannes
+    - Prufer, Johannes
+    birthdate: 1882
+    gutenberg_agent_id: '41796'
+    url: http://www.gutenberg.org/2009/agents/41796
+description: ''
+gutenberg_issued: '2013-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43613'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcc 'LB'
+- !lcsh 'Child psychology'
+title: Die Welt im Kinderköpfchen
+url: http://www.gutenberg.org/ebooks/43613
